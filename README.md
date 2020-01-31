@@ -1,0 +1,2 @@
+sudo echo # CleverTapReactNativeDeeplinkExample
+# CleverTapReactNativeDeeplinkExample
